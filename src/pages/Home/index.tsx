@@ -1,5 +1,5 @@
-import {Container} from "./style.ts";
+import { Container } from './style';
 
 export const Home = () => {
-  return (<Container>Bom dia carai!!</Container>)
-}
+  return <Container>Bom dia carai!!</Container>;
+};
